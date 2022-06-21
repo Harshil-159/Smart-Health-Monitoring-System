@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518095470687",
+    "project_id": "smarthealthmonitoring-b65cd",
+    "storage_bucket": "smarthealthmonitoring-b65cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518095470687:android:c87f916193fb17eb39dbea",
+        "android_client_info": {
+          "package_name": "com.example.smarthealthmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518095470687-1mo0bf1t7k1gjp8krkj3iql1dp5sb340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq2A2ErPqmrNkFgUuhjCV7Pi3WZTenbaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518095470687-1mo0bf1t7k1gjp8krkj3iql1dp5sb340.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
